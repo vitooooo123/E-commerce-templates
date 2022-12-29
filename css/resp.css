@@ -1,0 +1,403 @@
+@media (min-width: 1140px){
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1170px!important;
+    
+}
+}
+@media (max-width:1211px){
+
+   .logo{
+    margin-left: 40px;
+   }
+   .navbar-brand{  
+font-size: 13px!important;
+width: 142px;
+}
+.nav-link{
+font-size: 13px!important;
+
+}
+.nav_icons{
+    margin-right: 30px;
+    position: absolute;
+    right: 50px;
+}
+.icons{
+    margin-top: 30px; 
+    margin-right: 25px;
+}
+#poto{   
+    width: 20%!important;
+    height: 40%!important;  
+}
+.carousel-texts p {
+    font-size: 14px;
+    margin-left: 38px;  
+}
+.carousel-texts h2{
+    font-size: 28px;
+    margin-left: 38px; 
+}
+.car-p{
+    margin-left: 38px;   
+    font-size: 13px!important;
+    margin-top: 15px!important;
+}
+.carousel_btn{
+    margin-left: 38px;
+    font-size: 14px;
+}
+
+
+
+
+    .section_imgs{
+        
+        display: flex;
+        flex-direction: column;
+    }
+    .s_i-f{
+        width: 100%;
+        border: 3px solid green;
+        margin: 0!important;
+    }
+    
+    .simg{
+        width: 100%;
+        height: 300px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .watch{
+        width: 100%;
+        height: 250px;
+    }
+    #keybo{
+        
+        width: 100%;
+        height: 250px;
+        
+    }
+    .simg_p{
+       
+        left: 50px;
+    }
+    
+    .simg_h{
+       
+        left: 50px;
+    }
+    .img-t{
+        font-size: 15px;
+    }
+    .watch_icon{
+        display: none;
+    }
+    .main_img{
+        width: 100%;
+        margin-left: 1.5px;
+    }
+    .col-div_p{
+        font-size: 14px!important;
+    }
+    .price{
+        font-size: 13px!important;
+    }
+    .coll p {
+        font-size: 12px!important;
+    }
+    .iphone{
+        font-size: 13px!important;
+    }
+    .staties{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .staties_card{
+        width: 100%;
+        align-items: center;
+        display: flex;
+    }
+    .card_p{
+        font-size: 10px!important;
+    }
+    .box_img{
+        width: 88%;
+    }
+    .blog_boxes{
+        gap: 10px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        
+    }
+    .blog_card_p{
+        font-size: 18px;
+    }
+    .blog_card_img{
+        width: 100%;
+    }
+    .blog_form{
+        width: 100%;
+    }
+
+
+
+    .contacts{
+        margin-left: 20px;
+    }
+    .footer_nav{
+        margin-left: 70px;
+    }
+
+    .bottom_p{
+        margin-left: 20px;
+    }
+    .bottom_imagess{
+        margin-left: 70px;
+    }
+    .socials{
+        margin-left: 170px;
+    }
+    #footer_mail{
+        width: 100%!important;
+    }
+
+
+}
+@media (max-width: 1024px) and (min-width: 1000px){
+    
+    .nav_icons{
+        right: -15px;
+         
+    }
+    .logo{
+        margin-left: -10px;
+    }
+    .icons{
+        margin-left: -15px!important;
+    }
+    .s_icons{
+        position: absolute;
+        
+    }
+    .sio{
+        left: 55px;
+        top:20px;
+    }
+    .sit{
+        left: 95px;
+        top:20px;
+    }
+}
+@media (max-width: 540px) and (min-width: 530px){
+    .nav_icons{
+        top: -15px;
+
+    }
+    .review{
+        display: none;
+    }
+
+}
+@media (max-width: 820px) and (min-width: 768px){
+    .navbar-brand{
+        margin-left: -150px;
+    }
+    .nav_icons{
+        right: 90px;
+    }
+}
+@media (max-width: 1137px) and (min-width: 1021px){
+    .icons{
+        margin-right: 10px;
+        display: none;
+    }
+    .navbar-brand{
+        margin-left: 10px;
+    }
+
+}
+
+
+
+@media (max-width:950px){
+     .footer_inner{
+        display: flex;
+        flex-direction: column;
+        
+     }
+
+    .footer_nav{
+        margin-left: 20px;
+        
+    }
+    .loc_p{
+        margin-top: 57px;
+        
+        font-size: 30px;
+        
+    }
+    .con_p{
+        
+        font-size: 30px;
+        
+    }
+    .con_p_one{
+        margin-top:30px;
+    }
+    .one_span,
+    .two_span{
+        margin-right: 30px;
+        margin-left: 0!important;
+
+}
+.con_p_two{
+    margin-top: 1px;
+    width: 100%;     
+}
+.nav_brand{
+    font-size: 35px;
+    width: 100%;
+}
+.footer_list_item{
+    margin-left: -30px;
+    margin-bottom: 12px;
+    
+    font-size: 30px;
+   
+
+}
+.socials{
+    display: none;
+}
+.reviews p {
+    width: 100%;
+}
+.blog_p{
+    width: 100%;
+}
+.main_p{
+    width: 100%;
+}
+.products p {
+    width: 100%;
+}
+}
+
+@media (max-width:450px){
+    /* .logo{
+        margin-left: 10px;
+        margin-top: 5px;
+    } */
+    .nav_icons{
+        right: -25px;
+        top: 20px;
+    }
+    .carousel-texts{
+        margin-bottom: 100px;
+    }
+    #poto{
+        margin-top: 180px;
+        margin-left: 40px;
+    }
+    .img-h{
+        font-size: 20px!important;
+    }
+    .boxes{
+        display: flex;
+        flex-direction: column;
+    }
+    .card_p{
+        width: 100%!important;
+        
+    }
+    .review{
+        display: none;
+    }
+    .nav_brand{
+        font-size: 25px;
+        width: 100%;
+    }
+    .footer_list_item{
+        margin-left: -30px;
+        margin-bottom: 12px;
+        
+        font-size: 20px;
+    }
+    .bottom_p{
+        display: none;
+    }
+    .bottom_imagess{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .nav_brand{
+        margin: 20px 0;
+    }
+    .loc_p{
+        font-size: 23px;
+        
+       }
+       .footer_nav_flexx{
+        position: relative;
+        top: -70px;
+       }
+       .con_p{
+        font-size: 18px;
+        margin-top: 20px;
+       }
+       .footer_inner{
+        margin-left: -15px;
+       }
+}
+@media (max-width:395px){
+    .img-h{
+        font-size: 14px!important;
+    }
+    #poto{
+        display: none!important;
+    }
+    .footer_nav_flexx{
+        gap: 10%!important;
+        
+    }
+    .icons{
+        margin-right: 5px;
+    }
+    .blog_card_p{
+        width: 100%;
+    }
+    .footer_form{
+        margin-bottom: 10px;
+    }
+    .nav_brand{
+        margin: 20px 0;
+    }
+    #item_two{
+        display: none;
+    }
+   .img-t,
+   .img-h{
+    width: 200px;
+   }
+   .section_imgs{
+     margin-left: 5px;
+   }
+   .loc_p{
+    font-size: 20px;
+    
+   }
+   .footer_nav_flexx{
+    position: relative;
+    top: -70px;
+   }
+   .con_p{
+    font-size: 15px;
+    margin-top: 20px;
+   }
+  
+    
+}
+
